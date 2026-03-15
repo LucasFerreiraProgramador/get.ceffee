@@ -3,6 +3,9 @@
 Landing page desenvolvida por **Lucas Ferreira Silva**,
 estudante de **Análise e Desenvolvimento de Sistemas**.
 
+🔗 Acesse o projeto:  
+https://lucasferreiraprogramador.github.io/get.ceffee/
+
 ---
 
 ## 🎯 Desafio
@@ -35,5 +38,10 @@ Projeto de prática pessoal com foco em:
 
 ---
 
-## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
